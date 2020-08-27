@@ -4,9 +4,8 @@ body {
 
 div {
   width: 300px;
-  margin-right: auto;
-  margin-left: auto;
   height: 100px;
+  margin: auto;
 }
 
 div[class]:hover {
